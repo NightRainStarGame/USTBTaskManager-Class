@@ -1,0 +1,20 @@
+{
+  "classCode": "XZVEXJZ3",
+  "inviteCode": "XZVEXJZ3PKC5",
+  "name": "1",
+  "description": "1",
+  "ownerAlias": "我",
+  "createdAt": 1790089829423,
+  "members": [
+    {
+      "alias": "我",
+      "role": "owner",
+      "joinedAt": 1790089829423,
+      "sig": "Usaqvulq_jWH35md"
+    }
+  ],
+  "lastAnnouncementId": 0,
+  "lastTaskId": 0,
+  "updatedAt": 1790089829423,
+  "sig": "GHY9xKg44Mtn3oXQ"
+}
