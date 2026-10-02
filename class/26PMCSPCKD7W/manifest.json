@@ -1,0 +1,20 @@
+{
+  "classCode": "26PMCSPC",
+  "inviteCode": "26PMCSPCKD7W",
+  "name": "test",
+  "description": "1",
+  "ownerAlias": "1",
+  "createdAt": 1790951419060,
+  "members": [
+    {
+      "alias": "1",
+      "role": "owner",
+      "joinedAt": 1790951419060,
+      "sig": "ehqW_3EFk7iCIUWx"
+    }
+  ],
+  "lastAnnouncementId": 0,
+  "lastTaskId": 0,
+  "updatedAt": 1790951419060,
+  "sig": "6DrwoDDnEUTsglTn"
+}
