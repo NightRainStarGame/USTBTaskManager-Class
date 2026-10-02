@@ -11,10 +11,16 @@
       "role": "owner",
       "joinedAt": 1790951419060,
       "sig": "ehqW_3EFk7iCIUWx"
+    },
+    {
+      "alias": "我",
+      "role": "member",
+      "joinedAt": 1790951453556,
+      "sig": "E_aMbabYIrZkCL-9"
     }
   ],
   "lastAnnouncementId": 0,
   "lastTaskId": 0,
-  "updatedAt": 1790951419060,
-  "sig": "6DrwoDDnEUTsglTn"
+  "updatedAt": 1790951454400,
+  "sig": "XHSMOdz7tf2H7km2"
 }
