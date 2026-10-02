@@ -1,0 +1,21 @@
+{
+  "id": 1790951478653,
+  "authorAlias": "1",
+  "question": "test",
+  "description": "111",
+  "options": [
+    {
+      "text": "1"
+    },
+    {
+      "text": "2"
+    }
+  ],
+  "votes": {},
+  "multi": false,
+  "closed": false,
+  "deadlineAt": 1790951580000,
+  "createdAt": 1790951478653,
+  "updatedAt": 1790951478653,
+  "sig": "XEHV_EIl_YAlPASX"
+}
